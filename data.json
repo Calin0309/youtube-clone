@@ -1,8 +1,8 @@
 [
   {
-    "image": "thumbnails/image_marq.webp",
+    "image": "https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-1.webp",
     "videoTime": "14:20" ,
-    "channelImage": "channels/channel-1.jpeg",
+    "channelImage": "https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-1.jpeg",
     "title": "Talking Tech and AI with Google CEO Sundar Pichai!",
     "channelName": "Marques Brownlee",
     "numberOfViews": "3.4M views",
@@ -10,9 +10,9 @@
   },
 
   {
-    "image": "thumbnails/thumbnail-2.webp",
+    "image": "https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-2.webp",
     "videoTime": "8:22" ,
-    "channelImage": "channels/channel-2.jpeg",
+    "channelImage": "https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-2.jpeg",
     "title": "Try Not To Laugh Challenge #9",
     "channelName": "Markiplier",
     "numberOfViews": "12M views",
@@ -20,9 +20,9 @@
   },
 
   {
-    "image": "thumbnails/thumbnail-3.webp",
+    "image": "https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-3.webp",
     "videoTime": "9:13" ,
-    "channelImage": "channels/channel-3.jpeg",
+    "channelImage": "https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-3.jpeg",
     "title": "Crazy Tik Toks Taken Moments Before DISASTER",
     "channelName": "SSSniperWolf",
     "numberOfViews": "12M views",
@@ -30,9 +30,9 @@
   },
 
   {
-    "image": "thumbnails/thumbnail-4.webp",
+    "image": "https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-4.webp",
     "videoTime": "22:09" ,
-    "channelImage": "channels/channel-4.jpeg",
+    "channelImage": "https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-4.jpeg",
     "title": "The Simplest Math Problem No One Can Solve - Collatz",
     "channelName": "Veritasium",
     "numberOfViews": "18M views",
@@ -41,9 +41,9 @@
 
 
   {
-    "image": "thumbnails/thumbnail-5.webp",
+    "image": "https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-5.webp",
     "videoTime": "11:17" ,
-    "channelImage": "channels/channel-5.jpeg",
+    "channelImage": "https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-5.jpeg",
     "title": "Kadane's Algorithm to Maximum Sum Subarray",
     "channelName": "CS Dojo",
     "numberOfViews": "519K views",
@@ -52,9 +52,9 @@
 
 
   {
-    "image": "./thumbnails/thumbnail-6.webp",
+    "image": "https://supersimple.dev/public/img/exercises/youtube/thumbnails/thumbnail-6.webp",
     "videoTime": "19:59" ,
-    "channelImage": "./channels/channel-6.jpeg",
+    "channelImage": "https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/channel-6.jpeg",
     "title": "Anything You Can Fit In The Circle I’ll Pay For",
     "channelName": "MrBeast",
     "numberOfViews": "141M views",

@@ -1,7 +1,10 @@
 
-fetch("./data.json")
-  .then(res => res.json())
+fetch('https://mocki.io/v1/59998020-8e80-439d-9d16-aebd82662a57')
+  .then(res => {
+    return res.json();
+  })
   .then(data => {
+    console.log(data)
     data.forEach(element => {
         const markup = 
         `<div class="video-preview">
