@@ -1,5 +1,5 @@
 
-fetch('https://mocki.io/v1/59998020-8e80-439d-9d16-aebd82662a57')
+fetch('https://mocki.io/v1/27795727-09b5-4493-ae91-a6a7280de408')
   .then(res => {
     return res.json();
   })
@@ -9,7 +9,7 @@ fetch('https://mocki.io/v1/59998020-8e80-439d-9d16-aebd82662a57')
         const markup = 
         `<div class="video-preview">
         <div class="thumbnails-row">
-          <img class="thumbnail" src="${element.image}" alt="">
+          <a href="${element.link}"><img class="thumbnail" src="${element.image}" alt=""></a>
           <div class="video-time">${element.videoTime}</div>
         </div>
         <div class="video-info-grid">
